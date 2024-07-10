@@ -6,4 +6,4 @@ This repository contains Java Projects
 
 2.Number Guessing Game
 
-3.Password Generator
+3. Random Password Generator
